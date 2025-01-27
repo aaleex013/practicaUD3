@@ -1,0 +1,6 @@
+FROM mariadb:latest
+
+ENV MYSQL_ROOT_PASSWORD=m1_s3cr3t
+
+
+EXPOSE 3306
