@@ -54,4 +54,4 @@ Se crean los Modelos con php artisan make:model
 Se crean las rutas para la API con php artisan install:api
 Y por ultimo se crean los Controllers para las solicitudes
 Con Postman se comprueban dichas solicitudes
-
+En el fichero Postman id al link para ver las solicitudes.
