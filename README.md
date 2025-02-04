@@ -37,6 +37,7 @@ ejercicio pertence a muchas rutinas pero ejercicios_rutina pertenece a un solo e
 
 
 ## WoW (Way of Working)
+<p>
 Primero de todo hay que crear un proyecto Laravel
 Descargar Laravel, Docker, PHP y Composer
 composer create-project --prefer-dist laravel/laravel practicaUD3
@@ -55,3 +56,4 @@ Se crean las rutas para la API con php artisan install:api
 Y por ultimo se crean los Controllers para las solicitudes
 Con Postman se comprueban dichas solicitudes
 En el fichero Postman id al link para ver las solicitudes.
+/<p>
