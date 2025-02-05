@@ -43,7 +43,7 @@ Descargar Laravel, Docker, PHP y Composer
 composer create-project --prefer-dist laravel/laravel practicaUD3
 para crear el proyecto laravel con php unit y no starter kit
 Crear un Dockerfile para la base de datos, en este caso de MariaDB
-Con nombre: mariadb-server1, puerto:3306, usuario:root, password:m1_s3cr3t
+Con nombre: mariadb-server1, puerto:3306, usuario:root, password:
 docker exec -it (permite la interaccion con el contenedor)mariadb-server1 mariadb -u(usuario) root -p(contraseña)
 Levanta el contenedor llamado mariadb-server1
 se crea la base de datos: gestion_gym con sus tablas
